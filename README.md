@@ -1,6 +1,6 @@
-<h1 style="text-align:center">Hi, I am Aanshik 👋</h1>
+<h1 align="center">Hi, I am Aanshik 👋</h1>
 
-<h3 style="text-align: center">Full Stack Web Developer and Bachelor Student at JSSATE, Noida</h3>
+<h3 align="center">Full Stack Web Developer and Bachelor Student at JSSATE, Noida</h3>
 
 I am a B.Tech student at JSS Academy of Technical Education, Noida and I am particularly invested in Full Stack Web Development.
 I enjoy making web apps that scale and animations that blow minds. My forte includes writing clean code and scalable code.
