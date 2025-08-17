@@ -2,8 +2,9 @@
 
 <h3 align="center">Full Stack Web Developer and B.Tech. Student at JSSATE, Noida</h3>
 
-I am a B.Tech student at JSS Academy of Technical Education, Noida and I am particularly invested in Full Stack Web Development.
-I enjoy making web apps that scale and animations that blow minds. My forte includes writing clean code and scalable code.
+I am a B.Tech student at JSS Academy of Technical Education, Noida, with a strong focus on Full Stack Web Development. I specialize in building scalable, feature-rich applications and enjoy crafting smooth, engaging web experiences that blend performance with creativity.
+
+My work leverages the MERN stack along with technologies like Tailwind CSS, Redux Toolkit, GSAP, Sass, and Bootstrap, with an emphasis on clean, maintainable, and scalable code.
 
 - 🔭 I’m currently working on my project, [Window Web](https://github.com/aanshiksharma/windows-web)
 - 🌱 I’m currently learning React, Redux / Redux Toolkit and Tailwind CSS
